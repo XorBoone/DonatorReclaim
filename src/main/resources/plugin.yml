@@ -1,0 +1,5 @@
+name: DonatorReclaim
+main: net.xornick.donatorreclaim.DonatorReclaim
+author: XorNick
+version: ${project.version}
+depend: [Vault]
